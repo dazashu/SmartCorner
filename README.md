@@ -1,44 +1,46 @@
-SmartCorner – Photoshop Script
+# SmartCorner – Photoshop Script
 
-A small Photoshop script that makes texture fusion easier for League of Legends modding.
+A simple Photoshop script that makes texture fusion easier for **League of Legends modding**.
 
-It allows you to quickly place an image into a selected corner of your canvas, saving time when merging or organizing textures.
+SmartCorner allows you to quickly place an image into a selected corner of your canvas, saving time when merging or organizing textures.
 
-📦 Installation
+---
 
-Download SmartCorner.jsx.
+## 📦 Installation
 
-Place the file inside your Photoshop Scripts folder:
+1. Download `SmartCorner.jsx`
+2. Place the file inside your Photoshop Scripts folder: C:\Program Files\Adobe\Adobe Photoshop\Presets\Scripts
+3. Restart Photoshop if it was open.
 
-C:\Program Files\Adobe\Adobe Photoshop\Presets\Scripts
+---
 
-Restart Photoshop if it was open.
+## 🚀 How to Use
 
-🚀 How to Use
+1. Open your texture file in Photoshop.
+2. Go to: File → Scripts → SmartCorner
+3. A window will open allowing you to choose which corner to place the image in.
 
-Open your texture file in Photoshop.
+---
 
-Go to:
-File → Scripts → SmartCorner
-
-A window will open, allowing you to choose which corner to place the image in.
-
-⌨ Optional: Add a Shortcut
+## ⌨ Optional: Add a Keyboard Shortcut
 
 To launch the script faster:
 
-Go to Edit → Keyboard Shortcuts
+1. Go to: Edit → Keyboard Shortcuts
+2. Select **Application Menus**
+3. Navigate to: File → Scripts → SmartCorner
 
-In the dropdown, select Application Menus
+4. Assign a shortcut (example: `Ctrl + !`)
+5. Click **Accept** → **OK**
 
-Navigate to:
+---
 
-File → Scripts → SmartCorner
+## 🎯 Purpose
 
-Assign a shortcut (for example: Ctrl + !)
+This script is designed to simplify texture merging workflows commonly used in League modding projects.
 
-Click Accept, then OK
+---
 
-🎯 Purpose
+## 🛠 Requirements
 
-This script was made to simplify texture merging workflows commonly used in League modding projects.
+- Adobe Photoshop (any version that supports `.jsx` scripts)
